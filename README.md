@@ -7,7 +7,7 @@
 </div>
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Inter&size=28&duration=3000&pause=900&center=true&vCenter=true&width=900&height=150&lines=Hey+there!+I%27m+Shabila+Maaz+%F0%9F%91%8D%0AGraphic+Designer+%7C+Software+Developer+%7C+UI%2FUX+Enthusiast%0AI+design+delightful+interfaces+and+build+useful+software"
+    src="https://readme-typing-svg.demolab.com/?font=Inter&size=28&duration=3000&pause=900&center=true&vCenter=true&width=900&height=150&lines=Hey+there%21+I%27m+Shabila+Maaz+%F0%9F%91%8D%0AGraphic+Designer%7C+Software+Developer%7C+UI%2FUX+Enthusiast%0AI+design+delightful+interfaces+and+build+useful+software"
     alt="Animated typing intro"
   />
 </p>
